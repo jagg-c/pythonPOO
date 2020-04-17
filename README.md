@@ -9,3 +9,9 @@ La decomposición permite
 * Partir un problema en problemas más pequeños
 * Las clases permiten crear mayores abstracciones en forma de componentes
 * Cada clase se encarga de una parte del problema y el programa se vuelve más fácil de mantener
+
+## Encapsulación
+* Permite agrupar datos y su comportamiento
+* Controla el acceso a dichos datos
+* Previene modificaciones no autorizadas.
+

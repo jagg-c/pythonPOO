@@ -15,3 +15,7 @@ La decomposición permite
 * Controla el acceso a dichos datos
 * Previene modificaciones no autorizadas.
 
+## Herencia
+* Permite modelar una jerarquia de clases
+* Permite compartir comportamiento común en la jerarquia.
+* Al padre se le conoce como superclase y al hijo como subclase.
